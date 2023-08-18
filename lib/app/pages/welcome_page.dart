@@ -16,7 +16,7 @@ class WelcomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             SizedBox(
-              width: 250.0,
+              width: 251.0,
               child: DefaultTextStyle(
                 style: const TextStyle(
                   fontSize: 35,
